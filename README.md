@@ -20,10 +20,10 @@ Bu proje, HTML/CSS/JS ile yapılmış bir spor merkezi tanıtım sitesinin **Rea
 
 ## 📸 Ekran Görüntüleri
 
-![Ekran Görüntüsü](/img/ss1.png)
-![Ekran Görüntüsü](/img/ss2.png)
-![Ekran Görüntüsü](/img/ss3.png)
-![Ekran Görüntüsü](/img/ss4.png)
-![Ekran Görüntüsü](/img/ss5.png)
-![Ekran Görüntüsü](/img/ss6.png)
-![Ekran Görüntüsü](/img/ss7.png)
+![Ekran Görüntüsü](/screenshots/ss1.png)
+![Ekran Görüntüsü](/screenshots/ss2.png)
+![Ekran Görüntüsü](/screenshots/ss3.png)
+![Ekran Görüntüsü](/screenshots/ss4.png)
+![Ekran Görüntüsü](/screenshots/ss5.png)
+![Ekran Görüntüsü](/screenshots/ss6.png)
+![Ekran Görüntüsü](/screenshots/ss7.png)
